@@ -1,5 +1,5 @@
 # It is resume project using django that name is [resumeproject](https://techstarmahesh.pythonanywhere.com/).
-## This project is using django framework and it is using bootstrap for design.
+## This project used django framework and it is using bootstrap for design.
 
 
 # in this project i am using
